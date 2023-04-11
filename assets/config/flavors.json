@@ -1,0 +1,27 @@
+[
+  {
+    "name": "dev",
+    "baseUrl": "https://uat-sidbi.instantmseloans.in/",
+    "logLevel": "DEBUG",
+    "applyMock": true,
+    "mockMappingsFile": "packages/gstmobileservices/assets/mocks/_mappings.json",
+    "params": {
+      "productListMaxCount": 10,
+      "bankName": "SIDBI",
+      "publickey": "26f1ac75f77c22ebc66e2359c13ea9955ebd5e2bd7fbe50e5b3ac2977a772302",
+      "privatekey": "26f1ac75f77c22ebc66e2359c13ea9955ebd5e2bd7fbe50e5b3ac2977a772302"
+    }
+  },
+  {
+    "name": "development",
+    "baseUrl": "https://uat-sidbi.instantmseloans.in/",
+    "logLevel": "DEBUG",
+    "applyMock": false,
+    "params": {
+      "productListMaxCount": 10,
+      "bankName": "PNB",
+      "publickey": "26f1ac75f77c22ebc66e2359c13ea9955ebd5e2bd7fbe50e5b3ac2977a772302",
+      "privatekey": "26f1ac75f77c22ebc66e2359c13ea9955ebd5e2bd7fbe50e5b3ac2977a772302"
+    }
+  }
+]

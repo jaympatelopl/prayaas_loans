@@ -1,0 +1,31 @@
+<svg id="Number_Keyboard" data-name="Number Keyboard" xmlns="http://www.w3.org/2000/svg" width="375" height="447" viewBox="0 0 375 447">
+  <g id="Group_5" data-name="Group 5">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="375" height="447" rx="32" fill="#fff"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="109" height="80" transform="translate(24 14)" fill="#fff"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="109" height="80" transform="translate(24 94)" fill="#fff"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="109" height="80" transform="translate(24 174)" fill="#fff"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="109" height="80" transform="translate(24 254)" fill="#fff"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="109" height="80" transform="translate(133 14)" fill="#fff"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="109" height="80" transform="translate(133 94)" fill="#fff"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="109" height="80" transform="translate(133 174)" fill="#fff"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="109" height="80" transform="translate(133 254)" fill="#fff"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="109" height="80" transform="translate(241 14)" fill="#fff"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="109" height="80" transform="translate(241 94)" fill="#fff"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="109" height="80" transform="translate(241 174)" fill="#fff"/>
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="109" height="80" transform="translate(241 254)" fill="#fff"/>
+    <g id="Frame" transform="translate(280 278)">
+      <path id="Vector" d="M0,0H32V32H0Z" fill="none"/>
+      <path id="Vector-2" data-name="Vector" d="M8.444,0H27.731a1.333,1.333,0,0,1,1.333,1.333V22.667A1.333,1.333,0,0,1,27.731,24H8.444a1.333,1.333,0,0,1-1.109-.593L.224,12.74a1.333,1.333,0,0,1,0-1.48L7.335.593A1.333,1.333,0,0,1,8.444,0Zm.713,2.667L2.936,12l6.221,9.333H26.4V2.667Zm7.907,7.448,3.771-3.772,1.887,1.887L18.95,12l3.772,3.771-1.887,1.887-3.771-3.772-3.771,3.772-1.887-1.887L15.179,12,11.407,8.229l1.887-1.887Z" transform="translate(0.269 4)" fill="#102741"/>
+    </g>
+    <text id="_1" data-name="1" transform="translate(72 32)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="-1" y="35">1</tspan></text>
+    <text id="_2" data-name="2" transform="translate(178 32)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">2</tspan></text>
+    <text id="_3" data-name="3" transform="translate(286 32)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">3</tspan></text>
+    <text id="_4" data-name="4" transform="translate(69 112)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">4</tspan></text>
+    <text id="_5" data-name="5" transform="translate(179 112)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">5</tspan></text>
+    <text id="_6" data-name="6" transform="translate(286 112)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">6</tspan></text>
+    <text id="_7" data-name="7" transform="translate(70 192)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">7</tspan></text>
+    <text id="_8" data-name="8" transform="translate(178 192)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="1" y="35">8</tspan></text>
+    <text id="_0" data-name="0" transform="translate(177 272)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="1" y="35">0</tspan></text>
+    <text id="_9" data-name="9" transform="translate(286 192)" fill="#102741" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="35">9</tspan></text>
+  </g>
+</svg>
